@@ -1,0 +1,10 @@
+[VSYNC]
+on
+[TITLETEXT1]
+Dungeons: Assault Run
+[TITLETEXT2]
+2008 by charnold
+[GODMODE]
+off
+[PLAYER_HITPOINTS]
+15
